@@ -1,0 +1,7 @@
+Color,Forma,Tamano,Clase
+Rojo,Cuadrado,Grande,TRUE
+Azul,Cuadrado,Grande,TRUE
+Rojo,Redondo,Pequeno,FALSE
+Verde,Cuadrado,Pequeno,FALSE
+Rojo,Redondo,Grande,TRUE
+Verde,Cuadrado,Grande,FALSE

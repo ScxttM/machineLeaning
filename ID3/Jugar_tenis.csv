@@ -1,0 +1,15 @@
+Cielo,Temperatura,Humedad,Viento,Jugar_tenis
+Sol,Alta,Alta,Debil,FALSE
+Sol,Alta,Alta,Fuerte,FALSE
+Nubes,Alta,Alta,Debil,TRUE
+Lluvia ,Suave,Alta,Debil,TRUE
+Lluvia ,Baja,Normal,Debil,TRUE
+Lluvia ,Baja,Normal,Fuerte,FALSE
+Nubes,Baja,Normal,Fuerte,TRUE
+Sol,Suave,Alta,Debil,FALSE
+Sol,Baja,Normal,Debil,TRUE
+Lluvia ,Suave,Normal,Debil,TRUE
+Sol,Suave,Normal,Fuerte,TRUE
+Nubes,Suave,Alta,Fuerte,TRUE
+Nubes,Alta,Normal,Debil,TRUE
+Lluvia ,Suave,Alta,Fuerte,FALSE
